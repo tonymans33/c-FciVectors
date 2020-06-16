@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/C++/Study/Prog 2/20180076_Assignment3/FciVector.cpp
+FciVector.h
+D:/Programming/C++/Study/Prog 2/20180076_Assignment3/FciVector.h
+
+D:/Programming/C++/Study/Prog 2/20180076_Assignment3/FciVector.h
+iostream
+-
+string
+-
+
+D:/Programming/C++/Study/Prog 2/20180076_Assignment3/main.cpp
+iostream
+-
+FciVector.h
+D:/Programming/C++/Study/Prog 2/20180076_Assignment3/FciVector.h
+
